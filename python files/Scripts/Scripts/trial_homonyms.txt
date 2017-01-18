@@ -1,0 +1,34 @@
+arm,a weapon,noun,upper limb of human body,noun
+axis,a central reference point,noun,asian deer,noun
+ball, type of dance for couples,adjective,a spherical object used in games,noun
+bar,being restricted for appearing for some event ,unknown, a straight length of any material,noun
+bark,cry of a dog,unknown,exterior covering of a tree,noun
+bat,a small nocturnal flying bird,noun,wooden equipment used to play cricket,noun
+bear,a large mammal,noun,to accept or to tolerate,unknown
+bit,a binary unit,noun,a small portion,unknown
+blow,a harmful stroke with fist or weapon,adjective,a strong wind,unknown
+bound,to leap,unknown,a boundary,unknown
+spring,a season,noun,an elastic device,noun
+bank,a secure financial institution,noun,land above the edge of a river,noun
+bug,an error in program,noun,small insect,noun
+calf,a young bovine animal,noun,fleshy part of lower leg on backside,noun
+band,group of musicians,noun,group of people having common interests and purposes ,noun
+pole,a polish citizen,noun,a thin cylindrical object with one end supported on ground,noun
+orange,a fruit,adjective,a color,noun 
+date, day of the month or year specified by a number,unknown,a social or romantic appointment or engagement,unknown
+engage,to be involved in something,unknown,to be hired,unknown
+leaves,leaving from a place,unknown,a collection of leafs,noun
+train,to teach a particular skill through sustained practise,verb,a series of connected railway compartments,noun
+point,a punctuation such as fullstop,noun,sharp end of a tool or weapon,noun
+ring,a circular object,noun,a circular metal band worn on finger as ornament,noun
+book,reservation in advance,unknown,a written material consisting of useful information,noun
+watch,looking at or observe something attentively,verb,a small timepiece worn typically on a strap on ones wrist,noun
+bowl,an act of throwing a ball to batsman in cricket,verb,a hollow vessel,noun
+bow,bending down towards someone showing respect,verb,a weapon,noun
+box,a fight with gloves on fists,noun,a square container,noun
+can,capablity of doing something,unknown,metal vessel for preventing packed foods,noun
+cricket,a grasshoper like insect,noun,an outdoor game,noun
+date,fruit of date palm tree,noun,a fixed point in time,noun
+fair,a person with lighter complexion ,adjective,reasonable or legitimate activity,unknown
+fire,destructive burning,unknown,shooting projectile from weapon,verb
+tire,being exhausted,adjective,inflated rubber covering around metal tube of car's wheel,noun

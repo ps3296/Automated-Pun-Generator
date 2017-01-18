@@ -1,0 +1,17 @@
+arm,a weapon,noun,upper limb of human body,noun
+axis,central reference point,noun,asian deer,noun
+ball,a spherical body,noun, type of dance for couples,adjective
+bar, a straight length of any material,noun,being excluded ,unknown
+bark,cry of a dog,unknown,exterior covering of a tree,noun
+bat,wooden equipment used to play cricket,noun,a small nocturnal flying bird,noun
+bear,a large mammal,noun,to accept or to tolerate,unknown
+bit,a binary unit,noun,a small portion,unknown
+blow,send directed air from mouth,unknown,a harmful stroke with fist or weapon
+bound,to leap,unknown,a boundary,unknown
+spring,a season,noun,an elastic device,noun
+bank,land alongside or sloping down to a river,noun,a secure financial institution,noun
+bug,small insect,noun,an error in program,noun
+calf,a young bovine animal,noun,fleshy part of lower leg on backside,noun
+band,A small group of musicians and vocalists,noun,A small group of people who have common interests and purposes ,noun
+pole,a polish citizen,noun,a thin cylindrical object with one end supported on ground,noun
+orange,a color,adjective,a fruit,noun 
